@@ -26,7 +26,7 @@
 }
 
 .Modal-close:after {
-    content: X;
+    content: "X";
     font-weight: bold;
     font-size: 30px;
 }
